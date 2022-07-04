@@ -87,17 +87,16 @@ body {
     font-size: 10px;
 }
  button{
-     display: flex;
-     align-items: center;
-     justify-content: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     height: 50px;
     width: 350px;
     background-color: hsl(154, 68%, 32%);
     color: white;
     font-size: small;
     border: none;
-    border-radius: 5px;
-    
+    border-radius: 5px;  
  }
  @media screen and (max-width: 600px) {
     .heading{
